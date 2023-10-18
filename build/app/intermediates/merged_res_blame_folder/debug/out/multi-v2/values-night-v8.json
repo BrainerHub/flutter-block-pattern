@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/reactdeveloper/.gradle/daemon/7.5/com.example.bloc_api_project.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/reactdeveloper/Desktop/bloc_api_project/android/app/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,817",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "475,971"
+                    },
+                    "to": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,236",
+                        "endLines": "5,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "231,390"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.example.bloc_api_project.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/reactdeveloper/Desktop/bloc_api_project/android/app/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "3,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,775",
+                        "endLines": "6,15",
+                        "endColumns": "12,12",
+                        "endOffsets": "433,942"
+                    },
+                    "to": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,321",
+                        "endLines": "5,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "316,488"
+                    }
+                }
+            ]
+        }
+    ]
+}
