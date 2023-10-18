@@ -44,7 +44,7 @@ class HomeBloc extends Bloc<HomeEvent, HomeState> {
       page++;
       List<Result> results = await UserRepo.fetchUserData(page);
       storedUserList.addAll(results);
-      emit(HomeSuccessState(userList: [ ...results]));
+      emit(HomeSuccessState(userList: [ ...storedUserList,...results]));
     }
   }
 

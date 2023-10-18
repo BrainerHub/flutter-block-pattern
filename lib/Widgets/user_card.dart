@@ -75,13 +75,7 @@ class UserCard extends StatelessWidget {
           ),
           Row(
             children: [
-              GestureDetector(
-                onTap:openDialogBox,
-                child: const Icon(
-                  Icons.add_circle_outline,
-                  color: Colors.green,
-                ),
-              ),
+
               GestureDetector(
                   onTap: onFavClicked,
                   child: isLiked
